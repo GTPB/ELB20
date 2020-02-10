@@ -30,7 +30,11 @@ schemadotorg:
   # Contributor info
   contributor:
     - "@type": Person
+      name: "David P. Judge"      
+    - "@type": Person
       name: "Daniel Sobral"
+    - "@type": Person
+      name: "Pedro Fernandes"
 
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
