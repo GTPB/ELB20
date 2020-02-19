@@ -1,0 +1,66 @@
+﻿
+
+ELB20 - Entry Level Bioinformatics 
+
+Timetable (provisional)
+ELB20 	Entry Level Bioinformatics
+
+Mon, Mar 30th 	
+Day #1
+09:30 - 11:00 	Introduction.
+                 What is Bioinformatics?
+                 Sequence databases
+11:00 - 11:30 	Coffee Break
+11:30 - 12:30 	Information Resources available through the Internet I
+12:30 - 14:00 	Lunch Break
+14:00 - 16:00 	Information Resources available through the Internet II
+16:00 - 16:30 	Tea Break
+16:30 - 18:00 	Genome Databases
+
+Tue, Mar 31st 	
+Day #2
+09:30 - 11:00 	Morning Wrap-up (what have we done so far?)
+                 Genome Databases (primarily Ensembl)
+11:00 - 11:30 	Coffee Break
+11:30 - 12:30 	Graphical Pairwise Alignments
+12:30 - 14:00 	Lunch Break
+14:00 - 16:00 	Textual Pairwise Alignments
+16:00 - 16:30 	Tea Break
+16:30 - 18:00 	Database Searching Methods (primarily blast)
+
+Wed, Apr 1st 	
+Day #3
+09:30 - 11:00 	Morning Wrap-up (what have we done so far?)
+                 Primer design
+11:00 - 11:30 	Coffee Break
+11:30 - 12:30 	Simple Protein Sequence Analysis
+                 Secondary structure prediction
+                 Searching Protein Domain/Motif Databases
+12:30 - 14:00 	Lunch Break
+14:00 - 16:00 	Multiple Sequence Alignments I
+16:00 - 16:30 	Tea Break
+16:30 - 18:00 	Protein Sequence Analysis II
+                 Wrap-up (what have we done so far?)
+Thu, Apr 2nd 	
+Day #4
+09:30 - 11:00 	Morning 
+                 Introduction to the Linux Command Line
+11:00 - 11:30 	Coffee Break
+11:30 - 12:30 	Introduction to NGS Data
+                  Quality Control and Pre-processing
+12:30 - 14:00 	Lunch Break
+14:00 - 16:00 	Read Mapping
+16:00 - 16:30 	Tea Break
+16:30 - 18:00 	Variant Prediction and Visualisation of results
+                 Wrap-up (what have we done so far?)
+Fri, Apr 3rd 	
+Day #5
+09:30 - 11:00 	Morning Wrap-up (what have we done so far?)
+                 Automation of Bioinformatic tasks
+11:00 - 11:30 	Coffee Break
+11:30 - 12:30 	Scripting
+12:30 - 14:00 	Lunch Break
+14:00 - 16:00 	Simple programs in Python
+16:00 - 16:30 	Tea Break
+16:30 - 18:00 	Pipelines and Workflows
+                 Final wrap-up 
