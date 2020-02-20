@@ -16,6 +16,7 @@ reproducible ways.
 Objectives
 - To create an awareness of a wide range of bioinformatics tools and sufficient experience 
 to use those tools in basic investigations with a relatively high degree of user independence.
+- To show the limitations and ambiguities found in commonly used Bioinformatics resources.
 - To become aware of specific tools for NGS data analysis (transcriptomis, variant analysis)
 - To be able to create simple scripts that automate bioinformatics tasks, thus enlarging the scope of action of the tools, applied to large datasets.
 
